@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 krutoi PATSAN
-=======
-krutoi
->>>>>>> parent of 46fbeed (ASDFASDF)
